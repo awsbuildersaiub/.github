@@ -1,24 +1,19 @@
-<div align="center">
+# AWS Student Builder Group — AIUB
 
-  <img src="https://awssbggeu.com/aws_sbg_mark_dark.png" alt="AWS Student Builder Group Logo" width="100" />
+![AWS Student Builder Group Logo](https://awssbggeu.com/aws_sbg_mark_dark.png)
 
-  # AWS Student Builder Group — AIUB
-  ### ☁️ American International University-Bangladesh 🇧🇩
+## American International University-Bangladesh 🇧🇩
 
-  **Curiosity → Capability · Build, ship, and learn together.**
+**Curiosity → Capability · Build, ship, and learn together.**
 
-  <p>
-    <a href="https://builder.aws.com/"><img src="https://img.shields.io/badge/Community-AWS_Student_Builders-FF9900?logo=amazon-aws&logoColor=white" alt="Community" /></a>
-    <a href="https://www.aiub.edu/"><img src="https://img.shields.io/badge/Campus-AIUB-004B87?logo=google-classroom&logoColor=white" alt="Campus" /></a>
-    <a href="https://www.facebook.com/AWSBuildersAIUB"><img src="https://img.shields.io/badge/Facebook-AWSBuildersAIUB-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://github.com/awsbuildersaiub"><img src="https://img.shields.io/badge/GitHub-awsbuildersaiub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-</div>
+[![Community](https://img.shields.io/badge/Community-AWS_Student_Builders-FF9900?logo=amazon-aws&logoColor=white)](https://builder.aws.com/)
+[![Campus](https://img.shields.io/badge/Campus-AIUB-004B87?logo=google-classroom&logoColor=white)](https://www.aiub.edu/)
+[![Facebook](https://img.shields.io/badge/Facebook-AWSBuildersAIUB-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/AWSBuildersAIUB)
+[![GitHub](https://img.shields.io/badge/GitHub-awsbuildersaiub-181717?logo=github&logoColor=white)](https://github.com/awsbuildersaiub)
 
 ---
 
-### 👋 Welcome to AWS Builders AIUB!
+## 👋 Welcome to AWS Builders AIUB
 
 **AWS Student Builder Group at AIUB** is a student-led, community-driven initiative for learners, tinkerers, and developers at **American International University-Bangladesh (AIUB)** who want to get hands-on with Amazon Web Services (AWS), cloud architecture, modern DevOps, and Generative AI.
 
@@ -26,7 +21,7 @@ Whether you are writing your first line of code or deploying scalable serverless
 
 ---
 
-### 🚀 What We Do
+## 🚀 What We Do
 
 - 🛠️ **Practical Cloud Sandboxes**: Guided labs, zero-cost sandboxes, and AWS Skill Builder learning pathways without surprise bills or slide-deck fatigue.
 - 💡 **Collaborative Capstones**: Open-source campus tools, serverless architectures, and Generative AI applications powered by Amazon Bedrock, DynamoDB, and Next.js.
@@ -35,9 +30,9 @@ Whether you are writing your first line of code or deploying scalable serverless
 
 ---
 
-### 🧰 Cloud & Tech Focus
+## 🧰 Cloud & Tech Focus
 
-```
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                 AWS Builders AIUB Stack                 │
 ├─────────────────────────────────────────────────────────┤
@@ -50,16 +45,15 @@ Whether you are writing your first line of code or deploying scalable serverless
 
 ---
 
-### 🌐 Connect With Us
+## 🌐 Connect With Us
 
 - 📘 **Facebook**: [facebook.com/AWSBuildersAIUB](https://www.facebook.com/AWSBuildersAIUB)
 - ☁️ **AWS Builder Center**: [builder.aws.com](https://builder.aws.com/)
-- 🏛️ **AIUB Portal**: [aiub.edu](https://www.aiub.edu/)
 - 💻 **GitHub Organization**: [github.com/awsbuildersaiub](https://github.com/awsbuildersaiub)
 
 ---
 
-### 🤝 Getting Involved
+## 🤝 Getting Involved
 
 1. ⭐ Star our repositories to stay updated on ongoing projects!
 2. 💬 Join our upcoming meetups and study jams at the AIUB Permanent Campus.
@@ -67,6 +61,4 @@ Whether you are writing your first line of code or deploying scalable serverless
 
 ---
 
-<div align="center">
-  <sub>Built with curiosity by the student builders of AIUB. Independent student community.</sub>
-</div>
+*Built with curiosity by the student builders of AIUB · Independent student community*
