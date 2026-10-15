@@ -2,8 +2,9 @@
 
   <img src="https://awssbggeu.com/aws_sbg_mark_dark.png" alt="AWS Student Builder Group Logo" width="100" />
 
-  # AWS Student Builder Group — AIUB
-  ### ☁️ American International University-Bangladesh 🇧🇩
+# AWS Student Builder Group — AIUB
+
+### ☁️ American International University-Bangladesh 🇧🇩
 
   **Curiosity → Capability · Build, ship, and learn together.**
 
@@ -18,7 +19,7 @@
 
 ---
 
-### 👋 Welcome to AWS Builders AIUB!
+### 👋 Welcome to AWS Builders AIUB
 
 **AWS Student Builder Group at AIUB** is a student-led, community-driven initiative for learners, tinkerers, and developers at **American International University-Bangladesh (AIUB)** who want to get hands-on with Amazon Web Services (AWS), cloud architecture, modern DevOps, and Generative AI.
 
