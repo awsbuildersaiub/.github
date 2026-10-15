@@ -1,15 +1,21 @@
-# AWS Student Builder Group — AIUB
+<div align="center">
 
-![AWS Student Builder Group Logo](https://awssbggeu.com/aws_sbg_mark_dark.png)
+  <img src="https://awssbggeu.com/aws_sbg_mark_dark.png" alt="AWS Student Builder Group Logo" width="90" />
 
-## American International University-Bangladesh 🇧🇩
+  # AWS Student Builder Group — AIUB
 
-**Curiosity → Capability · Build, ship, and learn together.**
+  ## American International University-Bangladesh 🇧🇩
 
-[![Community](https://img.shields.io/badge/Community-AWS_Student_Builders-FF9900?logo=amazon-aws&logoColor=white)](https://builder.aws.com/)
-[![Campus](https://img.shields.io/badge/Campus-AIUB-004B87?logo=google-classroom&logoColor=white)](https://www.aiub.edu/)
-[![Facebook](https://img.shields.io/badge/Facebook-AWSBuildersAIUB-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/AWSBuildersAIUB)
-[![GitHub](https://img.shields.io/badge/GitHub-awsbuildersaiub-181717?logo=github&logoColor=white)](https://github.com/awsbuildersaiub)
+  **Curiosity → Capability · Build, ship, and learn together.**
+
+  <p>
+    <a href="https://builder.aws.com/"><img src="https://img.shields.io/badge/Community-AWS_Student_Builders-FF9900?logo=amazon-aws&logoColor=white" alt="Community" /></a>
+    <a href="https://www.aiub.edu/"><img src="https://img.shields.io/badge/Campus-AIUB-004B87?logo=google-classroom&logoColor=white" alt="Campus" /></a>
+    <a href="https://www.facebook.com/AWSBuildersAIUB"><img src="https://img.shields.io/badge/Facebook-AWSBuildersAIUB-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://github.com/awsbuildersaiub"><img src="https://img.shields.io/badge/GitHub-awsbuildersaiub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+</div>
 
 ---
 
@@ -61,4 +67,6 @@ Whether you are writing your first line of code or deploying scalable serverless
 
 ---
 
-*Built with curiosity by the student builders of AIUB · Independent student community*
+<div align="center">
+  <sub>Built with curiosity by the student builders of AIUB · Independent student community</sub>
+</div>
